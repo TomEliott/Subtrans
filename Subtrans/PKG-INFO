@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: subtrans
+Version: 1.42
+Summary: An algorithm to translate a .SRT file from an original language to a target language, keeping the same specificities.
+Home-page: https://github.com/cdown/srt
+Author: Focal Studio (Find3r & Mysa)
+Author-email: contact@focalstud.io
