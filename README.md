@@ -1,6 +1,6 @@
 
 # Subtrans
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Translate%20your%20subtitles%20easily%20with%20Subtrans%20(https://github.com/TomEliott/Subtrans) [![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)](https://www.python.org) [![FocalStudio](https://img.shields.io/badge/Powered%20by-Focal%20Studio-lightgrey.svg)](http://focalstud.io)
+[![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)](https://www.python.org) [![FocalStudio](https://img.shields.io/badge/Powered%20by-Focal%20Studio-lightgrey.svg)](http://focalstud.io)
 ----------
 
 ## What is Subtrans?
@@ -28,4 +28,5 @@ NB: For the list of available languages, please consult the [Google Translate](h
 
 ### Credits
 Tom-Eliott `'Find3r'` [(GitHub)](https://github.com/TomEliott)
+
 Samy `'Mysa'` [(GitHub)](https://github.com/SamyHussaein)
