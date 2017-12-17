@@ -12,7 +12,7 @@
 pip install -U git+https://github.com/TomEliott/Subtrans.git@develop
 ```
 
-Or download the [Subtrans GitHub Package](https://storage.googleapis.com/minikube/releases/latest/minikube-windows-amd64.exe) file, and open `Subtrans.py`.
+Or download the [Subtrans GitHub Package](https://github.com/TomEliott/Subtrans/archive/master.zip) file, and open `Subtrans.py`.
 
 ### Utilisation
 Open the `TryMe.py` file and run the function `Translate_a_subtitle (filePath, src, dest)`, with `filePath` the path of the SRT file, `src` the original language and `dest` the destination language.
