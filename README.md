@@ -1,6 +1,6 @@
 
 # Subtrans
-[![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)](https://www.python.org) [![FocalStudio](https://img.shields.io/badge/Powered%20by-Focal%20Studio-lightgrey.svg)](http://focalstud.io)
+[![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)](https://www.python.org) [![FocalStudio](https://img.shields.io/badge/Powered%20by-Focal%20Studio-lightgrey.svg)](http://focalstudio.me)
 ----------
 
 ## What is Subtrans?
