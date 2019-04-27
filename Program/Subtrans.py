@@ -7,9 +7,8 @@
 # Tom-Eliott Herfray (Find3r)
 # Samy Hussaein (Mysa)
 
-from Packages.srt import srt
-from Packages.googletrans import googletrans
-from Packages.googletrans.googletrans.client import Translator
+import srt
+from googletrans import Translator
 
 def subtrans(filePath, src, dest):
     """Translates the SRT file from an original language <src> 
